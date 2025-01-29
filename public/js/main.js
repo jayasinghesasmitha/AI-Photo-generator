@@ -36,7 +36,6 @@ function onSubmit(e) {
       }
   
       const data = await response.json();
-      // console.log(data);
   
       const imageUrl = data.data;
   

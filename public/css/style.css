@@ -9,7 +9,7 @@
 }
 
 :root {
-  --primary-color: #f9b64d;
+  --primary-color: #9691f3;
 }
 
 body {
@@ -17,7 +17,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #333;
-  background: #f4f4f4;
+  background:#9691f3;
+  ;
 }
 
 /* Navbar */
@@ -40,7 +41,7 @@ body {
 }
 
 .navbar a {
-  color: #fff;
+  color: #9691f3;
   text-decoration: none;
   font-size: 1.2rem;
 }
@@ -98,20 +99,3 @@ form button:hover {
   transform: scale(1.1);
 }
 
-/* Image */
-
-.image {
-  width: 100%;
-  margin-top: 2rem;
-}
-
-img {
-  display: block;
-  margin: auto;
-}
-
-.msg {
-  font-size: 1.6rem;
-  text-align: center;
-  margin-top: 1rem;
-}
