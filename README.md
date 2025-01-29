@@ -1,4 +1,3 @@
-
 # AI Image Generator
 
 ## Description
@@ -19,7 +18,7 @@ This project is an AI-powered image-generating tool that uses OpenAI's API to cr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/jayasinghesasmitha/your-repo-name.git
    cd your-repo-name
    ```
 
